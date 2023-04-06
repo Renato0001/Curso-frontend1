@@ -1,4 +1,4 @@
-let nota = 4
+let nota = 1
 
 switch (nota) {
     case 10:
